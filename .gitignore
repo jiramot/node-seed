@@ -3,3 +3,4 @@ test-results/*
 coverage/*
 npm-debug.log
 .vimrc.custom
+package-lock.json
